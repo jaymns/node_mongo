@@ -1,1 +1,1 @@
-# node_mongo
+POC with NodeJS/ ExpressJS/ Handlebar / Bootstrap / MongoDB
